@@ -4,5 +4,5 @@
 
 中文版教科书：https://composingprograms.netlify.app/
 
-2024.8.29：CS61A 网站换成了 Fall 2024，所以剩下的项目就按照 Spring 2024 的要求做完。
+2024.8.29：CS61A 网站换成了 Fall 2024，所以剩下的项目就按照 Spring 2024 的要求做完，放在另外一个 branch 下。
 
